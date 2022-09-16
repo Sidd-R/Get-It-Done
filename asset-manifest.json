@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tasktrackerapp/static/css/main.5dbb7c09.css",
+    "main.js": "/tasktrackerapp/static/js/main.e7638a21.js",
+    "static/js/787.11df717e.chunk.js": "/tasktrackerapp/static/js/787.11df717e.chunk.js",
+    "index.html": "/tasktrackerapp/index.html",
+    "main.5dbb7c09.css.map": "/tasktrackerapp/static/css/main.5dbb7c09.css.map",
+    "main.e7638a21.js.map": "/tasktrackerapp/static/js/main.e7638a21.js.map",
+    "787.11df717e.chunk.js.map": "/tasktrackerapp/static/js/787.11df717e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dbb7c09.css",
+    "static/js/main.e7638a21.js"
+  ]
+}
